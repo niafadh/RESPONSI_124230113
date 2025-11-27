@@ -140,7 +140,7 @@ class _HomePageState extends State<HomePage> {
           ),
         ],
       ),
-      // BACKGROUND GRADIENT DARK BROWN
+
       body: Container(
         width: double.infinity,
         height: double.infinity,
