@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // DARKER BROWN GRADIENT BACKGROUND
+      
       body: Container(
         width: double.infinity,
         height: double.infinity,
@@ -65,9 +65,9 @@ class _LoginPageState extends State<LoginPage> {
                 ),
                 const SizedBox(height: 20),
 
-                // CARD BOX NORMAL WIDTH (tidak full)
+                // CARD BOX 
                 Container(
-                  width: 330,   // *LEBAR BOX BALIK NATURAL*
+                  width: 330,  
                   child: Card(
                     elevation: 10,
                     color: const Color(0xFFFFF8F2),
