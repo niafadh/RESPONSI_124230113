@@ -61,7 +61,7 @@ class _RegisterPageState extends State<RegisterPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // DARKER BROWN GRADIENT
+
       body: Container(
         decoration: const BoxDecoration(
           gradient: LinearGradient(
